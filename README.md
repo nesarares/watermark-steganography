@@ -16,3 +16,8 @@ pip install Pillow
 ```bash
 python gui.py
 ```
+
+## Authors
+
+- Ariadna Roman - [Github profile](https://github.com/ariadnaroman)
+- Rares Nesa - [Github profile](https://github.com/nesarares)
