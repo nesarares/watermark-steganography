@@ -1,6 +1,6 @@
 # Watermark embedding using image steganography
 
-> Project for university (Modular arithmetics and cryptography)
+University project - Modular arithmetics and cryptography
 
 ## Running the project
 
